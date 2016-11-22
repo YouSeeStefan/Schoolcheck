@@ -14,6 +14,6 @@
 
 
 
-## License
+## License / Website
 
-Website [schoolchecker](http://21281.hosts.ma-cloud.nl/bewijzenmap2/periode1/BAC/SchoolCheck)
+Dit is de [schoolchecker](http://21281.hosts.ma-cloud.nl/bewijzenmap2/periode1/BAC/SchoolCheck) website die wij hebben gemaakt. Hier kunt u onze website vinden.
