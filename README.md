@@ -19,7 +19,7 @@ Dit is de [SCHOOLCHECKER](http://21281.hosts.ma-cloud.nl/bewijzenmap2/periode1/B
 
 ## Producten
 
-Dit zijn de producten die wij moeten opleveren.
+Dit zijn de producten die wij moeten maken.
 
 - [ ] ERD
 - [ ] Acceptatie-testen
