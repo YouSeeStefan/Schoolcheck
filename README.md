@@ -17,9 +17,14 @@ Dit is de [schoolchecker](http://21281.hosts.ma-cloud.nl/bewijzenmap2/periode1/B
 0. PHP
 0. MySQL
 
-## Tests
+## Inleveren
 
-
+* ERD
+* Acceptatie-testen
+* Genormaliseerde database
+* Functionerende en opgeleverde CMS
+* Project op Github met meerdere commits (version control)
+* Handleiding bij CMS
 
 ## License
 
