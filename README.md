@@ -4,7 +4,7 @@ De beheerder wil een CMS waarmee je alle informatie over de scholen kan aanpasse
 
 Bedenk wat er allemaal door de gebruiker aangepast moet kunnen worden. Niet alleen dit jaar maar ook volgend jaar moet de app weer te gebruiken zijn. Scholen kunnen worden toegevoegd, verwijderd en (tijdelijk) niet zichtbaar zijn. De gegevens van de scholen kunnen aangepast worden. Je bouwt het CMS in PHP en MySQL. De styling van de front-end is van ondergeschikt belang, de usability is wel belangrijk. De site is gemaakt voor een smartphone.
 
---Makers--
+**Makers**
 
 * Stefan Stekelenburg
 * Mauro Bertozzi
