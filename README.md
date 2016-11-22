@@ -22,7 +22,7 @@ Dit is de [schoolchecker](http://21281.hosts.ma-cloud.nl/bewijzenmap2/periode1/B
 Dit zijn de producten die wij moeten opleveren.
 
 - [ ] ERD
-- [x] Acceptatie-testen
+- [ ] Acceptatie-testen
 - [ ] Genormaliseerde database
 - [ ] Functionerende en opgeleverde CMS
 - [ ] Project op Github met meerdere commits (version control)
