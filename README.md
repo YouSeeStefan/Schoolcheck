@@ -9,7 +9,7 @@ Bedenk wat er allemaal door de gebruiker aangepast moet kunnen worden. Niet alle
 * Stefan Stekelenburg
 * Mauro Bertozzi
 
-Dit is de [SCHOOLCHECKER](http://21281.hosts.ma-cloud.nl/bewijzenmap2/periode1/BAC/SchoolCheck) website die wij hebben gemaakt. Hier kunt u onze website vinden.
+Dit is de [SCHOOLCHECKER](http://21281.hosts.ma-cloud.nl/bewijzenmap2/periode1/BAC/SchoolCheck/index.php?action=admin) website die wij hebben gemaakt. Hier kunt u onze website vinden.
 
 
 ## Gebruikte code
